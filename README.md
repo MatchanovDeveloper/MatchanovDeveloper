@@ -27,8 +27,8 @@ On the engineering side, I practice **ETL** by generating synthetic CRM data and
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-181717?style=for-the-badge&logo=airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 | Area | What I do |
 |---|---|
@@ -66,8 +66,8 @@ On the engineering side, I practice **ETL** by generating synthetic CRM data and
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-matchanovmatchanboy1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matchanovmatchanboy1@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@mdev_off-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mdev_off)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matchanboy-matchanov-41b612301)
+[![Telegram](https://img.shields.io/badge/Telegram-@mdev__off-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mdev_off)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matchanboy%20Matchanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matchanboy-matchanov-41b612301)
 
 <div align="center">
 
